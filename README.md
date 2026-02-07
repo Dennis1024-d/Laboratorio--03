@@ -6,4 +6,4 @@ Maria Alejandra Montoya Pineda 1155326
 | Nombre | Carnet |
 |------------------|-----------|
 | Dennis Palacios | 1167726 |
-| Maria Montayo | 1155326 |
+| Maria Montoya | 1155326 |
