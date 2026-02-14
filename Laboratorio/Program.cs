@@ -5,6 +5,7 @@ Console.WriteLine("Laboratorio # 03");
 Console.WriteLine("Dennis Palacios 1167726");
 Console.ReadLine();
 // Ingresar aquí nombre y carnet del colaborador:
-
+Console.WriteLine("Maria Alejandra Montoya Pineda  1155326");
+Console.ReadLine();
 Console.WriteLine("==========================================");
 Console.ReadLine();
